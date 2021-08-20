@@ -1,0 +1,51 @@
+body {
+  background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+}
+
+#logo{
+  width: 200px
+}
+
+header, nav{
+  text-align: center;
+  color: lime;
+}
+
+form{
+  background-color: lime;
+  padding: 15px;
+}
+
+section{
+  color: white;
+}
+
+.titolo{
+  display: inline-block;
+}
+
+.freccia:before{
+  content: "\21A6";
+}
+
+#color1{
+  background-color: orange;
+  padding-left: 300px;
+}
+
+#color2{
+  background-color: lime;
+  padding-left: 600px;
+}
+
+#color3{
+  background-color: red;
+  padding-left: 150px;
+}
